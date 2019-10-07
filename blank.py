@@ -1,6 +1,1 @@
-import os
-
-os.system('clean')
-
-print("done")
-
+print("this is a python script")
